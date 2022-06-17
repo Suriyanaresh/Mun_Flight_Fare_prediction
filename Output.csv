@@ -1,0 +1,3 @@
+Name_of_the_Model,model_train_Score,Model_Test_Score
+Lasso Regression,-252062.5,-248119.29
+Decision Tree Regressor,99.36,82.15
